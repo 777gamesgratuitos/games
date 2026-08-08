@@ -1,0 +1,14 @@
+SITE AFFA DESENVOLVIMENTO WEB
+
+1. Abra o arquivo index.html.
+2. Para configurar o Telegram, procure no index.html por:
+   https://t.me/seuusuario
+3. Troque "seuusuario" pelo seu usuário do Telegram.
+   Exemplo: https://t.me/affaweb
+4. Envie todos os arquivos e a pasta assets para sua hospedagem.
+
+Arquivos:
+- index.html
+- style.css
+- script.js
+- assets/hero.png
